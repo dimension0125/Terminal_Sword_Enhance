@@ -6,7 +6,7 @@
 * 터미널 환경에서 실행 가능
 
 ## 🚀 실행 방법
-`python sword.py`
+`python sword.py` or `python3 sword.py`
 
 ## ❇️ 기타
 * 코딩으로 만든 첫 작품
