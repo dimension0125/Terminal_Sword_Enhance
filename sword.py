@@ -58,7 +58,7 @@ while True:
       level += 1
       status = '성공'
       if randint(1, 100) <= 10 and level <= 15:
-        level += 2
+        level += 1
         status = '2단 승급'
 
   elif ans == '2':
